@@ -28,27 +28,14 @@ Python & SQL
 
 Projet
 
-Description
-
-Outils
-
-ETL Pipeline – Données de ventes
-
-Nettoyage et transformation d’un dataset de ventes
-
-Python, Pandas
-
-Dashboard RH
-
-Visualisation d’indicateurs RH
-
-Power BI
+en cours
 
 📫 Contact
 
 📩 Email : Salma.houidi.ing@gmail.com
 💼 LinkedIn : https://www.linkedin.com/in/houidi-salma/
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🇬🇧 Overview
 
 Welcome to my data portfolio 👋I'm Salma, a Data Engineer focused on building clean, scalable and value-driven data workflows.
@@ -75,26 +62,11 @@ Python & SQL
 
 🚀 Projects in this repository
 
-Project
-
-Description
-
-Tools
-
-ETL Pipeline – Sales Data
-
-Cleaning and transforming a sales dataset
-
-Python, Pandas
-
-HR Dashboard
-
-KPIs & analytics on HR metrics
-
-Power BI
+in progress
 
 📫 Contact
 
-📩 Email: [your.email@gmail.com]💼 LinkedIn: linkedin.com/in/your-name
+📩 Email : Salma.houidi.ing@gmail.com
+💼 LinkedIn : https://www.linkedin.com/in/houidi-salma/
 
 Thanks for reading 🙏
