@@ -54,10 +54,9 @@ en cours
 📩 Email : Salma.houidi.ing@gmail.com
 💼 LinkedIn : https://www.linkedin.com/in/houidi-salma/
 
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🇬🇧 Overview
-
-# 💼 Data Portfolio – Salma
 
 Welcome to my data space 👋  
 
@@ -77,6 +76,7 @@ Each project I build is designed as a **system with purpose**, and every line of
 📂 This repository showcases my technical skills and the way I approach data projects from source to insights.
 
 💡 Main Skills
+----------------
 
 Azure (Data Factory, Synapse)
 
@@ -87,6 +87,7 @@ Power BI / Data visualization
 Python & SQL
 
 🎓 Ongoing Training
+--------------------
 
 📘 Microsoft Learn – Azure Data Fundamentals
 
@@ -97,12 +98,15 @@ Python & SQL
 🔥 Databricks Academy – Databricks Certified Data Engineer Associate
 
 🚀 Projects in this repository
+-------------------------------
 
 in progress
 
 📫 Contact
+------------
 
 📩 Email : Salma.houidi.ing@gmail.com
 💼 LinkedIn : https://www.linkedin.com/in/houidi-salma/
+
 
 Thanks for reading 🙏
