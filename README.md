@@ -1,6 +1,8 @@
 💼 Portfolio Data – Salma
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🇫🇷 Présentation
+---------------
 
 Bienvenue dans mon univers data 👋  
 Je suis **Salma**, ingénieure data orientée cloud, spécialisée dans la construction de pipelines robustes, l'automatisation de traitements et la valorisation de la donnée.
@@ -14,11 +16,12 @@ Mon travail s’articule autour de 3 piliers :
 
 Je conçois chaque projet comme un **système à valeur ajoutée**, et chaque ligne de code comme un **acte de clarté**.
 
----
+
 
 📂 Ce dépôt est un aperçu de mes compétences techniques et de ma façon de structurer un projet data, du sourcing à la restitution.
 
 💡 Compétences principales
+--------------------------
 
 Azure (Data Factory, Synapse)
 
@@ -29,6 +32,7 @@ Power BI / Visualisation
 Python & SQL
 
 🎓 Formations suivies
+----------------------
 
 📘 Microsoft Learn – Azure Data Fundamentals
 
@@ -39,12 +43,13 @@ Python & SQL
 🔥 Databricks Academy – Databricks Certified Data Engineer Associate (préparation en cours)
 
 🚀 Projets dans ce dépôt
-
+------------------------
 Projet
 
 en cours
 
 📫 Contact
+------------
 
 📩 Email : Salma.houidi.ing@gmail.com
 💼 LinkedIn : https://www.linkedin.com/in/houidi-salma/
